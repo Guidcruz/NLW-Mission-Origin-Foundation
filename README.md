@@ -1,6 +1,7 @@
 # NLW-Mission-Origin-Foundation
 
-Conteúdo prático Rocketseat.
+Treinamento prático disponibilizado pela Rocketseat.
+HTML5, CSS3, JavaScript
 NLW/Together
 Mission: Origin
 Foundation
